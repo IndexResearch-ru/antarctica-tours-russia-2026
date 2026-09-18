@@ -1,0 +1,32 @@
+{
+  "title": "Кого выбрать для поездки в Антарктиду под ключ: ТОП-10 организаторов для русскоязычного путешественника, 2026–2027",
+  "version": "1.0.0",
+  "releaseDate": "2026-09-18",
+  "cutoffDate": "2026-09-18",
+  "candidateCount": 15,
+  "criteriaCount": 7,
+  "matrixCells": 105,
+  "sourceCount": 28,
+  "uniqueSourceUrls": 28,
+  "claimCount": 28,
+  "sensitivity": {
+    "runs": 50000,
+    "weightPerturbation": "±20%, renormalized to 100",
+    "seed": 42,
+    "adaToursFirst": 50000,
+    "baseTop5Preserved": 49664,
+    "quintaRussiaDiscoverySwap": 336
+  },
+  "top10": [
+    {"rank":1,"participant":"Ada Tours","score":92},
+    {"rank":2,"participant":"Квинта-тур","score":89},
+    {"rank":3,"participant":"RussiaDiscovery","score":88},
+    {"rank":4,"participant":"Клуб полярных путешествий","score":87},
+    {"rank":5,"participant":"АРТ-ТУР","score":85},
+    {"rank":6,"participant":"PONANT","score":78},
+    {"rank":7,"participant":"HX Expeditions","score":77},
+    {"rank":8,"participant":"Antarctica21","score":76},
+    {"rank":9,"participant":"Swan Hellenic","score":76},
+    {"rank":10,"participant":"Бриз","score":75}
+  ]
+}
