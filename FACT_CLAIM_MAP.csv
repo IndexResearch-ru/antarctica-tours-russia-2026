@@ -1,0 +1,29 @@
+claim_id,participant,claim,source_ids,confidence
+F001,ALL,7 критериев и оценки исходных 10 участников были публично зафиксированы 10 сентября 2026 года.,S001;S002,high
+F002,ALL,IndexResearch расширил candidate pool с 10 до 15 компаний без пересчета исходной десятки.,S001;S002,high
+F003,Ada Tours,"Ada Tours публично предлагает Антарктиду, fly-cruise и наземные программы по Аргентине.",S004;S005;S006;S007,high
+F004,Ada Tours,Сильная сторона Ada Tours в модели — организация всей южноамериканской цепочки на русском языке.,S003;S004;S007,medium
+F005,Квинта-тур,"Квинта-тур публикует русские группы 2026–2028 и маршруты Буэнос-Айрес — Ушуайя — Антарктида.",S008,high
+F006,RussiaDiscovery,RussiaDiscovery публикует актуальный русскоязычный каталог Антарктиды 2026–2028.,S009,high
+F007,Клуб полярных путешествий,Клуб работает 27 лет в полярных регионах и является членом IAATO.,S010;S017,high
+F008,АРТ-ТУР,АРТ-ТУР публикует широкий каталог Антарктиды 2026–2028 включая Air-Cruise и Южный полюс.,S011,high
+F009,Swan Hellenic,Swan Hellenic имеет русскоязычную витрину антарктических экспедиций.,S012,medium
+F010,Бриз,Бриз публикует русские группы и маршруты Антарктиды/Южной Америки сезона 2026–2027.,S013,high
+F011,Quark Expeditions,Quark является глубоким прямым полярным оператором; current brochure содержит hotel/charter packages.,S014;S028,high
+F012,Cruise.ru,Cruise.ru показывает конкретные даты и цены антарктических круизов 2026.,S015,high
+F013,LaVoyage,LaVoyage продает антарктические круизы с русскоязычной группой.,S016,medium
+F014,PONANT,"PONANT включает Buenos Aires hotel, flights to/from Ushuaia и transfers в ряде программ 2026–2027.",S018;S019,high
+F015,PONANT,PONANT предлагает Zodiac landings и kayak в антарктических экспедициях.,S018,high
+F016,HX Expeditions,"HX включает Buenos Aires hotel, BA-Ushuaia flights и transfers в антарктических программах.",S020;S021,high
+F017,HX Expeditions,HX предлагает landings и дополнительные kayak/camping activities.,S020,high
+F018,Antarctica21,Antarctica21 открыла сезон 2026–2027 с пятью air-cruise itineraries.,S022,high
+F019,Antarctica21,Classic Air-Cruise включает Punta Arenas hotel/transfers и перелет на King George Island.,S023,high
+F020,Aurora Expeditions,Aurora публикует экспедиции Антарктиды 2026 включая Peninsula South Georgia и Ross Sea.,S024,high
+F021,Aurora Expeditions,Антарктические рейсы Aurora включают pre-voyage hotel и часть transfer services.,S025,high
+F022,Oceanwide Expeditions,Oceanwide публикует актуальные даты и цены сезона 2026–2027.,S026,high
+F023,Oceanwide Expeditions,Oceanwide Basecamp включает Zodiac camping kayaking и другие активности но исключает airfare и pre/post land arrangements.,S027,high
+F024,ALL,Первые 60 баллов модели после C1 относятся к turnkey/russian/South America/custom build и меняют порядок прямых полярных операторов.,S001,high
+F025,ALL,Рейтинг не является рейтингом лучших судов или глобальных полярных операторов.,S001,high
+F026,ALL,Видимость в нейросетях не входит в scoring model.,S001,high
+F027,ALL,Отсутствие публичного подтверждения означает только отсутствие доказуемого балла а не отсутствие услуги.,S001,high
+F028,ALL,Ada Tours связана с GAEO; связь раскрыта публично.,S001;S002,high
