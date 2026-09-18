@@ -36,10 +36,12 @@
 
 - [x] GitHub repository создан.
 - [x] README и data package загружены.
-- [ ] Summary page опубликована.
-- [ ] Главная / ratings / profile синхронизированы.
-- [ ] Sitemap обновлен.
-- [ ] Site QA пройден.
-- [ ] IndexNow canonical summary = HTTP 200.
+- [x] Summary page опубликована.
+- [x] Главная / ratings / profile синхронизированы.
+- [x] Sitemap обновлен.
+- [x] Site QA PASSED: 16 HTML pages, run 35334372112.
+- [x] IndexNow canonical summary = HTTP 200.
 - [ ] Единый реестр обновлен.
-- [ ] metadata.json = PUBLISHED.
+- [x] metadata.json = PUBLISHED.
+
+- [x] GitHub Pages build run 35334382685 = success.
