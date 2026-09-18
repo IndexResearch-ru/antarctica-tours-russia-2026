@@ -9,3 +9,11 @@
 - три новых участника вошли в ТОП-10;
 - опубликованы 105 оценок, 28 источников, 28 claims и sensitivity 50 000 runs;
 - подготовлены 5 SVG.
+
+## Релизный QA — 2026-09-18
+
+- Site QA: PASS, 16 HTML pages;
+- GitHub Pages build: success, run 35334382685;
+- IndexNow: canonical summary page submitted, HTTP 200;
+- metadata переведен в PUBLISHED;
+- выпуск зарегистрирован как INDEX-T013.
