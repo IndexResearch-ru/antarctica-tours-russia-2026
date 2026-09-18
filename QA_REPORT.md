@@ -41,7 +41,11 @@
 - [x] Sitemap обновлен.
 - [x] Site QA PASSED: 16 HTML pages, run 35334372112.
 - [x] IndexNow canonical summary = HTTP 200.
-- [ ] Единый реестр обновлен.
+- [x] Единый реестр обновлен: INDEX-T013, публикация INDEX-T013-GITHUB, 27 ссылок README и 5 SVG.
 - [x] metadata.json = PUBLISHED.
 
 - [x] GitHub Pages build run 35334382685 = success.
+
+## Итог
+
+Выпуск полностью закрыт по blueprint 2.6. Не заполнены только 2 необязательных поля GitHub About — Homepage и Topics, которые текущий коннектор не умеет изменять.
