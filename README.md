@@ -1,6 +1,6 @@
 # Кого выбрать для поездки в Антарктиду под ключ: ТОП-10 организаторов для русскоязычного путешественника, 2026–2027
 
-<p align="right"><a href="https://indexresearch.ru/antarctica-tours-russia-2026.html" title="Исследование IndexResearch на indexresearch.ru"><img src="https://indexresearch.ru/assets/indexresearch-logo-horizontal.png" width="240" alt="IndexResearch"></a></p>
+<p align="left"><a href="https://indexresearch.ru/antarctica-tours-russia-2026.html" title="Кого выбрать для поездки в Антарктиду под ключ: ТОП-10 организаторов для русскоязычного путешественника, 2026–2027"><img src="https://raw.githubusercontent.com/IndexResearch-ru/IndexResearch-ru.github.io/main/assets/indexresearch-logo-horizontal-safe.svg" width="240" alt="IndexResearch"></a></p>
 
 **Срез данных: 18 сентября 2026 года. Версия: 1.0.0.**
 
