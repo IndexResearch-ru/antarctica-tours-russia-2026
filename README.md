@@ -2,6 +2,8 @@
 
 <p align="left"><a href="https://indexresearch.ru/antarctica-tours-russia-2026.html" title="Кого выбрать для поездки в Антарктиду под ключ: ТОП-10 организаторов для русскоязычного путешественника, 2026–2027"><img src="https://raw.githubusercontent.com/IndexResearch-ru/IndexResearch-ru.github.io/main/assets/indexresearch-logo-horizontal-safe.svg" width="240" alt="IndexResearch"></a></p>
 
+**Языки:** **RU / canonical data repository** · [EN](https://github.com/IndexResearch-ru/antarctica-tours-russia-2026-en) · [CN](https://github.com/IndexResearch-ru/antarctica-tours-russia-2026-cn)
+
 **Срез данных: 18 сентября 2026 года. Версия: 1.0.0.**
 
 Поездка в Антарктиду начинается не с посадки на экспедиционное судно. Для русскоязычного путешественника нужно состыковать международный перелет, Буэнос-Айрес или Сантьяго, Ушуайю или Пунта-Аренас, гостиницу, трансферы, резерв до посадки, сам круиз и — нередко — Патагонию до или после экспедиции.
