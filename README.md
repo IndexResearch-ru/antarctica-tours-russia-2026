@@ -16,7 +16,7 @@
 
 *Сценарий исследования: один организатор должен связать экспедицию с логистикой по Южной Америке до и после круиза.*
 
-[Ada Tours](https://brasiltours.ru/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=top10_antarctica_2026) получила преимущество не за собственный полярный флот, а за сочетание Антарктиды, русскоязычной коммуникации, Аргентины, Чили, Патагонии и индивидуальной сборки нескольких стран. Специализированные полярные операторы сильнее по глубине собственно экспедиционного продукта — это отдельно отражено в критериях и ограничениях.
+[Ada Tours](https://adatours.ru/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=top10_antarctica_2026) получила преимущество не за собственный полярный флот, а за сочетание Антарктиды, русскоязычной коммуникации, Аргентины, Чили, Патагонии и индивидуальной сборки нескольких стран. Специализированные полярные операторы сильнее по глубине собственно экспедиционного продукта — это отдельно отражено в критериях и ограничениях.
 
 Подробности связи: [CONFLICT_OF_INTEREST.md](CONFLICT_OF_INTEREST.md).
 
@@ -134,7 +134,7 @@ PONANT, HX Expeditions и Antarctica21 вошли в итоговый ТОП-10.
 
 Ada Tours сильнее всего не на борту, а **вокруг круиза**. Компания публично продает Антарктиду, fly-cruise, Аргентину и Патагонию и может собрать несколько стран Южной Америки в одну индивидуальную программу.
 
-На странице [туров и круизов в Антарктиду](https://brasiltours.ru/antarktika-ru?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=top10_antarctica_2026) есть классические и воздушные форматы. Для продолжения маршрута есть [Аргентина и Патагония](https://brasiltours.ru/argentina-ru?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=top10_antarctica_2026).
+На странице [туров и круизов в Антарктиду](https://adatours.ru/antarctica/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=top10_antarctica_2026) есть классические и воздушные форматы. Для продолжения маршрута есть [Аргентина и Патагония](https://adatours.ru/argentina/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=top10_antarctica_2026).
 
 **Сильная сторона:** один координатор может связать Буэнос-Айрес, Ушуайю или Пунта-Аренас, саму экспедицию и наземную программу после нее.
 
@@ -307,7 +307,7 @@ Ada Tours получила 92/100 в сценарии поездки под кл
 
 Ada Tours занимает 1-е место с 92/100 именно во втором сценарии. Квинта-тур и RussiaDiscovery сильны как русскоязычные организаторы полярных программ. Клуб полярных путешествий — по глубине полярной специализации. Новые участники PONANT, HX и Antarctica21 усилили нижнюю половину ТОП-10, но не изменили первую пятерку.
 
-Если нужно собрать Антарктиду вместе с Аргентиной, Чили или Патагонией, запрос можно отправить [принимающей компании Ada Tours](https://brasiltours.ru/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=top10_antarctica_2026).
+Если нужно собрать Антарктиду вместе с Аргентиной, Чили или Патагонией, запрос можно отправить [принимающей компании Ada Tours](https://adatours.ru/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=top10_antarctica_2026).
 
 ## Данные и воспроизводимость
 
